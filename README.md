@@ -27,20 +27,11 @@
     <a href="https://scratched-english-75d.notion.site/06eea1c235694bfba022361618305a0c?pvs=74">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cafuch-06&theme=default)](https://hyunmin-06.tistory.com)
 </div><br>
 
 ## 🔨 Once I've Dev Used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualStudio&logoColor=black">
-    <img src="https://img.shields.io/badge/Godot Engine-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
-    <br>
-    <br>
-    <br>
 </div><br>
 </div>
