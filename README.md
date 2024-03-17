@@ -14,7 +14,7 @@
 </a>
 
   ## 📖 Baekjoon's log 📖
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjfdk6201)](https://solved.ac/khm0930/)
 
  <img src="http://mazandi.herokuapp.com/api?handle=tjfdk6201&theme=warm"/>
 <br>
