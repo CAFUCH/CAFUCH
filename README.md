@@ -33,7 +33,7 @@
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualStudio&logoColor=black">
-</div><br>
+</div>
 <div>
     <img src="https://img.shields.io/badge/C sharp-239120?style=for-the-badge&logo=C sharp&logoColor=green">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=blue">
