@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SoleAh's Github&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SoleAh'sGithub&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38)
 ---
   ## 📋 GitHub's log 📋
 <a href="https://github.com/rhkrhyunmin/github-readme-stats">
